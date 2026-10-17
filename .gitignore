@@ -1,0 +1,13 @@
+# venv
+r2rcal_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# wrap_layers.py output (default -o folder)
+layers/
+
+# editor / OS
+.vscode/
+Thumbs.db
